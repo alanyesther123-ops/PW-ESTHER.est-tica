@@ -1,0 +1,143 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif, Helvetica, sans-serif;
+    background-color: rgb(220, 204, 191);
+}
+
+header {
+    background-color: #392822;
+    color: rgb(205, 178, 154);
+    text-align: center;
+    padding: 40px;
+}
+
+header h1 {
+    margin-bottom: 20px;
+    font-size: 50px;
+}
+
+nav a {
+    color: rgb(218, 191, 170);
+    text-decoration: none;
+    margin: 15px;
+    font-size: 22px;
+}
+
+nav a:hover {
+    color: rgb(209, 202, 202);
+}
+
+main {
+    width: 90%;
+    margin: auto;
+}
+
+section {
+    background-color: rgb(218, 191, 170);
+    padding: 30px;
+    margin-top: 30px;
+    border-radius: 15px;
+}
+
+section h2 {
+    font-size: 40px;
+    color: #382719;
+}
+
+section p {
+    font-size: 24px;
+    color: #674d4d;
+}
+
+hr {
+    margin-top: 20px;
+    border: 1px solid #988573;
+}
+
+footer {
+    background-color: #392822;
+    color: rgb(218, 191, 170);
+    text-align: center;
+    padding: 100px;
+    margin-top: 20px;
+    font-size: 20px;
+}
+
+h1 {
+    margin: 0;
+    font-family: Poppins;
+    color: rgb(218, 191, 170)
+}
+
+h2 {
+    margin: 10;
+    font-family: Poppins;
+    background-color:
+    margin-top 30px;
+}
+
+p {
+    margin: 0;
+    font-family: lato;
+}
+
+li {
+    color: #674d4d;
+}
+
+b {
+    margin: 0;
+    font-family: lato;
+}
+
+#procedimentos {
+    margin-top: 30px;
+}
+
+#procedimentos h2 {
+    text-align: center;
+    color: #382719;
+    font-size: 40px;
+}
+
+#procedimentos h3 {
+    color: #674d4d;
+    margin-top: 30px;
+    border-bottom: 1px solid #988573;
+    padding-bottom: 5px;
+}
+
+.procedimento {
+    background-color: #f5e8de;
+    border-radius: 15px;
+    margin: 20px 0;
+    padding: 15px;
+}
+
+.procedimento img {
+    width: 150px;
+    height: 100px;
+    background-color: #d8c3b3;
+    border-radius: 10px;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.procedimento h4 {
+    color: #382719;
+    margin-bottom: 8px;
+}
+
+.procedimento p {
+    color: #674d4d;
+    font-size: 18px;
+}
+
+.procedimento img {
+    width: 220px;
+    height: 140px;
+    border-radius: 15px;
+    display: block;
+    margin-bottom: 15px;
+    object-fit: cover;
+}
